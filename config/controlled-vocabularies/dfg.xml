@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<node id="DFGSubjectCategories" label="DEUTSCHE FORSCHUNGSGEMEINSCHAFT">
+  <isComposedBy>
+    <node id="11" label="11 Geisteswissenschaften">
+      <isComposedBy>
+        <node id="1.11" label="1.11 Alte Kulturen">
+          <isComposedBy>
+            <node id="1.11-01" label="1.11-01 Ur- und Frühgeschichte (weltweit)"/>
+            <node id="1.11-02" label="1.11-02 Griechische und Lateinische Philologie"/>
+            <node id="1.11-03" label="1.11-03 Alte Geschichte"/>
+            <node id="1.11-04" label="1.11-04 Klassische, Provinzialrömische, Christliche und Islamische Archäologie"/>
+            <node id="1.11-05" label="1.11-05 Ägyptische und Vorderasiatische Altertumswissenschaften"/>
+          </isComposedBy>
+        </node>
+        <node id="1.12" label="1.12 Geschichtswissenschaften">
+          <isComposedBy>
+            <node id="1.12-01" label="1.12-01 Mittelalterliche Geschichte"/>
+            <node id="1.12-02" label="1.12-02 Frühneuzeitliche Geschichte"/>
+            <node id="1.12-03" label="1.12-03 Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte)"/>
+            <node id="1.12-04" label="1.12-04 Wissenschaftsgeschichte"/>
+          </isComposedBy>
+        </node>
+        <node id="1.13" label="1.13 Kunst-, Musik-, Theater- und Medienwissenschaften">
+          <isComposedBy>
+            <node id="1.13-01" label="1.13-01 Kunstgeschichte"/>
+            <node id="1.13-02" label="1.13-02 Musikwissenschaften"/>
+            <node id="1.13-03" label="1.13-03 Theater- und Medienwissenschaften"/>
+          </isComposedBy>
+        </node>
+        <node id="1.14" label="1.14 Sprachwissenschaften">
+          <isComposedBy>
+            <node id="1.14-01" label="1.14-01 Allgemeine und Vergleichende Sprachwissenschaft, Experimentelle Linguistik, Typologie, Außereuropäische Sprachen"/>
+            <node id="1.14-02" label="1.14-02 Einzelsprachenwissenschaften, Historische Linguistik"/>
+            <node id="1.14-03" label="1.14-03 Angewandte Sprachwissenschaften, Computerlinguistik"/>
+          </isComposedBy>
+        </node>
+        <node id="1.15" label="1.15 Literaturwissenschaft">
+          <isComposedBy>
+            <node id="1.15-01" label="1.15-01 Germanistische Mediävistik (Ältere deutsche Literatur)"/>
+            <node id="1.15-02" label="1.15-02 Germanistische Literatur-und Kulturwissenschaften (Neuere deutsche Literatur)"/>
+            <node id="1.15-03" label="1.15-03 Europäische und Amerikanische Literatur- und Kulturwissenschaften"/>
+            <node id="1.15-04" label="1.15-04 Allgemeine und vergleichende Literaturwissenschaft; Kulturwissenschaft"/>
+          </isComposedBy>
+        </node>
+        <node id="1.16" label="1.16 Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft">
+          <isComposedBy>
+            <node id="1.16-01" label="1.16-01 Ethnologie und Europäische Ethnologie"/>
+            <node id="1.16-02" label="1.16-02 Asienbezogene Wissenschaften"/>
+            <node id="1.16-03" label="1.16-03 Afrika-, Amerika- und Ozeanienbezogene Wissenschaften"/>
+            <node id="1.16-04" label="1.16-04 Islamwissenschaft, Arabistik, Semitistik"/>
+            <node id="1.16-05" label="1.16-05 Religionswissenschaft und Judaistik"/>
+          </isComposedBy>
+        </node>
+        <node id="1.17" label="1.17 Theologie">
+          <isComposedBy>
+            <node id="1.17-01" label="1.17-01 Evangelische Theologie"/>
+            <node id="1.17-02" label="1.17-02 Katholische Theologie"/>
+          </isComposedBy>
+        </node>
+        <node id="1.18" label="1.18 Philosophie">
+          <isComposedBy>
+            <node id="1.18-01" label="1.18-01 Geschichte der Philosophie"/>
+            <node id="1.18-02" label="1.18-02 Theoretische Philosophie"/>
+            <node id="1.18-03" label="1.18-03 Praktische Philosophie"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="12" label="12 Sozial- und Verhaltenswissenschaften">
+      <isComposedBy>
+        <node id="1.21" label="1.21 Erziehungswissenschaft und Bildungsforschung">
+          <isComposedBy>
+            <node id="1.21-01" label="1.21-01 Allgemeine und Historische Erziehungswissenschaft"/>
+            <node id="1.21-02" label="1.21-02 Allgemeines und fachbezogenes Lehren und Lernen"/>
+            <node id="1.21-03" label="1.21-03 Bildungssysteme und Bildungsinstitutionen"/>
+            <node id="1.21-04" label="1.21-04 Erziehungswissenschaftliche Sozialisations- und Professionalitätsforschung"/>
+          </isComposedBy>
+        </node>
+        <node id="1.22" label="1.22 Psychologie">
+          <isComposedBy>
+            <node id="1.22-01" label="1.22-01 Allgemeine, Kognitive und Mathematische Psychologie"/>
+            <node id="1.22-02" label="1.22-02 Biologische Psychologie und Kognitive Neurowissenschaften"/>
+            <node id="1.22-03" label="1.22-03 Entwicklungspsychologie und Pädagogische Psychologie"/>
+            <node id="1.22-04" label="1.22-04 Sozialpsychologie und Arbeits- und Organisationspsychologie"/>
+            <node id="1.22-05" label="1.22-05 Persönlichkeitspsychologie, Klinische und Medizinische Psychologie, Methoden"/>
+          </isComposedBy>
+        </node>
+        <node id="1.23" label="1.23 Sozialwissenschaften">
+          <isComposedBy>
+            <node id="1.23-01" label="1.23-01 Soziologische Theorie"/>
+            <node id="1.23-02" label="1.23-02 Empirische Sozialforschung"/>
+            <node id="1.23-03" label="1.23-03 Publizistik und Kommunikationswissenschaft"/>
+            <node id="1.23-04" label="1.23-04 Politikwissenschaft"/>
+          </isComposedBy>
+        </node>
+        <node id="1.24" label="1.24 Wirtschaftswissenschaften">
+          <isComposedBy>
+            <node id="1.24-01" label="1.24-01 Wirtschaftstheorie"/>
+            <node id="1.24-02" label="1.24-02 Wirtschaftspolitik, Angewandte Volkswirtschaftslehre"/>
+            <node id="1.24-03" label="1.24-03 Accounting und Finance"/>
+            <node id="1.24-04" label="1.24-04 Management und Marketing"/>
+            <node id="1.24-05" label="1.24-05 Operations Management und BWL-spezifische Wirtschaftsinformatik"/>
+            <node id="1.24-06" label="1.24-06 Statistik und Ökonometrie"/>
+            <node id="1.24-07" label="1.24-07 Wirtschafts- und Sozialgeschichte"/>
+          </isComposedBy>
+        </node>
+        <node id="1.25" label="1.25 Rechtswissenschaften">
+          <isComposedBy>
+            <node id="1.25-01" label="1.25-01 Grundlagen des Rechts und der Rechtswissenschaft"/>
+            <node id="1.25-02" label="1.25-02 Privatrecht"/>
+            <node id="1.25-03" label="1.25-03 Öffentliches Recht"/>
+            <node id="1.25-04" label="1.25-04 Strafrecht"/>
+            <node id="1.25-05" label="1.25-05 Kriminologie"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="21" label="21 Biologie">
+      <isComposedBy>
+        <node id="2.11" label="2.11 Grundlagen der Biologie und Medizin">
+          <isComposedBy>
+            <node id="2.11-01" label="2.11-01 Biochemie"/>
+            <node id="2.11-02" label="2.11-02 Biophysik"/>
+            <node id="2.11-03" label="2.11-03 Zellbiologie"/>
+            <node id="2.11-04" label="2.11-04 Strukturbiologie"/>
+            <node id="2.11-05" label="2.11-05 Allgemeine Genetik und funktionelle Genomforschung"/>
+            <node id="2.11-06" label="2.11-06 Entwicklungsbiologie"/>
+            <node id="2.11-07" label="2.11-07 Bioinformatik und Theoretische Biologie"/>
+          </isComposedBy>
+        </node>
+        <node id="2.12" label="2.12 Pflanzenwissenschaften">
+          <isComposedBy>
+            <node id="2.12-01" label="2.12-01 Evolution und Systematik der Pflanzen und Pilze"/>
+            <node id="2.12-02" label="2.12-02 Ökologie und Biodiversität der Pflanzen und Ökosysteme"/>
+            <node id="2.12-03" label="2.12-03 Organismische Interaktionen, chemische Ökologie und Mikrobiome pflanzlicher Systeme"/>
+            <node id="2.12-04" label="2.12-04 Pflanzenphysiologie"/>
+            <node id="2.12-05" label="2.12-05 Biochemie und Biophysik der Pflanzen"/>
+            <node id="2.12-06" label="2.12-06 Zell- und Entwicklungsbiologie der Pflanzen"/>
+            <node id="2.12-07" label="2.12-07 Genetik und Genomik der Pflanzen"/>
+          </isComposedBy>
+        </node>
+        <node id="2.13" label="2.13 Zoologie">
+          <isComposedBy>
+            <node id="2.13-01" label="2.13-01 Systematik und Morphologie der Tiere"/>
+            <node id="2.13-02" label="2.13-02 Evolution, Anthropologie"/>
+            <node id="2.13-03" label="2.13-03 Ökologie und Biodiversität der Tiere und Ökosysteme, Organismische Interaktionen"/>
+            <node id="2.13-04" label="2.13-04 Biologie des Verhaltens und der Sinne"/>
+            <node id="2.13-05" label="2.13-05 Biochemie und Physiologie der Tiere"/>
+            <node id="2.13-06" label="2.13-06 Evolutionäre Zell- und Entwicklungsbiologie der Tiere"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="22" label="22 Medizin">
+      <isComposedBy>
+        <node id="2.21" label="2.21 Mikrobiologie, Virologie und Immunologie">
+          <isComposedBy>
+            <node id="2.21-01" label="2.21-01 Stoffwechselphysiologie, Biochemie und Genetik der Mikroorganismen"/>
+            <node id="2.21-02" label="2.21-02 Mikrobielle Ökologie und Angewandte Mikrobiologie"/>
+            <node id="2.21-03" label="2.21-03 Medizinische Mikrobiologie und Mykologie, Hygiene, Molekulare Infektionsbiologie"/>
+            <node id="2.21-04" label="2.21-04 Virologie"/>
+            <node id="2.21-05" label="2.21-05 Immunologie"/>
+            <node id="2.21-06" label="2.21-06 Parasitologie und Biologie der Erreger tropischer Infektionskrankheiten"/>
+          </isComposedBy>
+        </node>
+        <node id="2.22" label="2.22 Medizin">
+          <isComposedBy>
+            <node id="2.22-01" label="2.22-01 Epidemiologie und Medizinische Biometrie/Statistik"/>
+            <node id="2.22-02" label="2.22-02 Public Health, Gesundheitsbezogene Versorgungsforschung, Sozial- und Arbeitsmedizin"/>
+            <node id="2.22-03" label="2.22-03 Humangenetik"/>
+            <node id="2.22-04" label="2.22-04 Anatomie und Physiologie"/>
+            <node id="2.22-05" label="2.22-05 Ernährungswissenschaften"/>
+            <node id="2.22-06" label="2.22-06 Pathologie"/>
+            <node id="2.22-07" label="2.22-07 Medizininformatik und medizinische Bioinformatik"/>
+            <node id="2.22-08" label="2.22-08 Pharmazie"/>
+            <node id="2.22-09" label="2.22-09 Pharmakologie"/>
+            <node id="2.22-10" label="2.22-10 Toxikologie, Laboratoriumsmedizin"/>
+            <node id="2.22-11" label="2.22-11 Anästhesiologie"/>
+            <node id="2.22-12" label="2.22-12 Kardiologie, Angiologie"/>
+            <node id="2.22-13" label="2.22-13 Pneumologie, Thoraxchirurgie"/>
+            <node id="2.22-14" label="2.22-14 Hämatologie, Onkologie"/>
+            <node id="2.22-15" label="2.22-15 Gastroenterologie"/>
+            <node id="2.22-16" label="2.22-16 Nephrologie"/>
+            <node id="2.22-17" label="2.22-17 Endokrinologie, Diabetologie, Metabolismus"/>
+            <node id="2.22-18" label="2.22-18 Rheumatologie"/>
+            <node id="2.22-19" label="2.22-19 Dermatologie"/>
+            <node id="2.22-20" label="2.22-20 Kinder- und Jugendmedizin"/>
+            <node id="2.22-21" label="2.22-21 Gynäkologie und Geburtshilfe"/>
+            <node id="2.22-22" label="2.22-22 Klinische Immunologie und Allergologie"/>
+            <node id="2.22-23" label="2.22-23 Reproduktionsmedizin, Urologie"/>
+            <node id="2.22-24" label="2.22-24 Gerontobiologie und Geriatrie"/>
+            <node id="2.22-25" label="2.22-25 Allgemein- und Viszeralchirurgie"/>
+            <node id="2.22-26" label="2.22-26 Herz- und Gefäßchirurgie"/>
+            <node id="2.22-27" label="2.22-27 Orthopädie, Unfallchirurgie, rekonstruktive Chirurgie"/>
+            <node id="2.22-28" label="2.22-28 Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie"/>
+            <node id="2.22-29" label="2.22-29 Hals-Nasen-Ohrenheilkunde, Phoniatrie und Audiologie"/>
+            <node id="2.22-30" label="2.22-30 Radiologie"/>
+            <node id="2.22-31" label="2.22-31 Klinische Infektiologie und Tropenmedizin"/>
+            <node id="2.22-32" label="2.22-32 Medizinische Physik, Biomedizinische Technik"/>
+            <node id="2.22-33" label="2.22-33 Nuklearmedizin, Strahlentherapie, Strahlenbiologie"/>
+          </isComposedBy>
+        </node>
+        <node id="2.23" label="2.23 Neurowissenschaften">
+          <isComposedBy>
+            <node id="2.23-01" label="2.23-01 Entwicklungsneurobiologie"/>
+            <node id="2.23-02" label="2.23-02 Molekulare Biologie und Physiologie von Nerven- und Gliazellen"/>
+            <node id="2.23-03" label="2.23-03 Experimentelle und theoretische Netzwerk-Neurowissenschaften"/>
+            <node id="2.23-04" label="2.23-04 Kognitive, systemische und Verhaltensneurobiologie"/>
+            <node id="2.23-05" label="2.23-05 Experimentelle Modelle zum Verständnis von Erkrankungen des Nervensystems "/>
+            <node id="2.23-06" label="2.23-06 Molekulare und zelluläre Neurologie und Neuropathologie"/>
+            <node id="2.23-07" label="2.23-07 Klinische Neurologie; Neurochirurgie und Neuroradiologie"/>
+            <node id="2.23-08" label="2.23-08 Kognitive und systemische Humanneurowissenschaften"/>
+            <node id="2.23-09" label="2.23-09 Biologische Psychiatrie"/>
+            <node id="2.23-10" label="2.23-10 Klinische Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie"/>
+            <node id="2.23-11" label="2.23-11 Augenheilkunde"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="23" label="23 Agrar-, Forstwissenschaften und Tiermedizin">
+      <isComposedBy>
+        <node id="2.31" label="2.31 Agrar-, Forstwissenschaften und Tiermedizin">
+          <isComposedBy>
+            <node id="2.31-01" label="2.31-01 Bodenwissenschaften"/>
+            <node id="2.31-02" label="2.31-02 Pflanzenzüchtung, Pflanzenpathologie"/>
+            <node id="2.31-03" label="2.31-03 Pflanzenbau, Pflanzenernährung, Agrartechnik"/>
+            <node id="2.31-04" label="2.31-04 Ökologie der Landnutzung"/>
+            <node id="2.31-05" label="2.31-05 Agrarökonomie, Agrarpolitik, Agrarsoziologie"/>
+            <node id="2.31-06" label="2.31-06 Forstwissenschaften"/>
+            <node id="2.31-07" label="2.31-07 Tierzucht, Tierernährung, Tierhaltung"/>
+            <node id="2.31-08" label="2.31-08 Tiermedizin"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="31" label="31 Chemie">
+      <isComposedBy>
+        <node id="3.11" label="3.11 Molekülchemie">
+          <isComposedBy>
+            <node id="3.11-01" label="3.11-01 Anorganische Molekülchemie - Synthese, Charakterisierung"/>
+            <node id="3.11-02" label="3.11-02 Organische Molekülchemie - Synthese, Charakterisierung"/>
+          </isComposedBy>
+        </node>
+        <node id="3.12" label="3.12 Chemische Festkörper- und Oberflächenforschung">
+          <isComposedBy>
+            <node id="3.12-01" label="3.12-01 Festkörper- und Oberflächenchemie, Materialsynthese"/>
+          </isComposedBy>
+        </node>
+        <node id="3.13" label="3.13 Physikalische Chemie">
+          <isComposedBy>
+            <node id="3.12-02" label="3.12-02 Physikalische Chemie von Festkörpern und Oberflächen, Materialcharakterisierung"/>
+            <node id="3.13-01" label="3.13-01 Physikalische Chemie von Molekülen, Flüssigkeiten und Grenzflächen, Biophysikalische Chemie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.14" label="3.14 Analytische Chemie">
+          <isComposedBy>
+            <node id="3.14-01" label="3.14-01 Analytische Chemie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.15" label="3.15 Biologische Chemie und Lebensmittelchemie">
+          <isComposedBy>
+            <node id="3.15-01" label="3.15-01 Biologische und Biomimetische Chemie"/>
+            <node id="3.15-02" label="3.15-02 Lebensmittelchemie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.16" label="3.16 Polymerforschung">
+          <isComposedBy>
+            <node id="3.16-01" label="3.16-01 Präparative und Physikalische Chemie von Polymeren"/>
+            <node id="3.16-02" label="3.16-02 Experimentelle und Theoretische Polymerphysik"/>
+            <node id="3.16-03" label="3.16-03 Polymermaterialien"/>
+          </isComposedBy>
+        </node>
+        <node id="3.17" label="3.17 Theoretische Chemie">
+          <isComposedBy>
+            <node id="3.17-01" label="3.17-01 Theoretische Chemie: Elektronenstruktur, Dynamik, Simulation"/>
+            <node id="3.17-02" label="3.17-02 Theoretische Chemie: Moleküle, Materialien, Oberflächen"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="32" label="32 Physik">
+      <isComposedBy>
+        <node id="3.21" label="3.21 Physik der kondensierten Materie">
+          <isComposedBy>
+            <node id="3.21-01" label="3.21-01 Experimentelle Physik der kondensierten Materie"/>
+            <node id="3.21-02" label="3.21-02 Theoretische Physik der kondensierten Materie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.22" label="3.22 Statistische Physik, Nichtlineare Dynamik, Komplexe Systeme, Weiche und fluide Materie, Biologische Physik">
+          <isComposedBy>
+            <node id="3.22-01" label="3.22-01 Statistische Physik, Nichtlineare Dynamik, Komplexe Systeme, Weiche und fluide Materie, Biologische Physik"/>
+          </isComposedBy>
+        </node>
+        <node id="3.23" label="3.23 Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen">
+          <isComposedBy>
+            <node id="3.23-01" label="3.23-01 Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen"/>
+          </isComposedBy>
+        </node>
+        <node id="3.24" label="3.24 Teilchen, Kerne und Felder">
+          <isComposedBy>
+            <node id="3.24-01" label="3.24-01 Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder"/>
+          </isComposedBy>
+        </node>
+        <node id="3.25" label="3.25 Astrophysik und Astronomie">
+          <isComposedBy>
+            <node id="3.25-01" label="3.25-01 Astrophysik und Astronomie"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="33" label="33 Mathematik">
+      <isComposedBy>
+        <node id="3.31" label="3.31 Mathematik">
+          <isComposedBy>
+            <node id="3.31-01" label="3.31-01 Mathematik"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="34" label="34 Geowissenschaften">
+      <isComposedBy>
+        <node id="3.41" label="3.41 Atmosphären-, Meeres- und Klimaforschung">
+          <isComposedBy>
+            <node id="3.41-01" label="3.41-01 Physik und Chemie der Atmosphäre"/>
+            <node id="3.41-02" label="3.41-02 Physik, Chemie und Biologie des Meeres"/>
+          </isComposedBy>
+        </node>
+        <node id="3.42" label="3.42 Geologie und Paläontologie">
+          <isComposedBy>
+            <node id="3.42-01" label="3.42-01 Geologie"/>
+            <node id="3.42-02" label="3.42-02 Paläontologie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.43" label="3.43 Geophysik und Geodäsie">
+          <isComposedBy>
+            <node id="3.43-01" label="3.43-01 Physik des Erdkörpers"/>
+            <node id="3.43-02" label="3.43-02 Geodäsie, Photogrammetrie, Fernerkundung, Geoinformatik, Kartographie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.44" label="3.44 Mineralogie, Petrologie und Geochemie">
+          <isComposedBy>
+            <node id="3.44-01" label="3.44-01 Mineralogie, Petrologie und Geochemie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.45" label="3.45 Geographie">
+          <isComposedBy>
+            <node id="3.45-01" label="3.45-01 Physische Geographie"/>
+            <node id="3.45-02" label="3.45-02 Humangeographie"/>
+          </isComposedBy>
+        </node>
+        <node id="3.46" label="3.46 Wasserforschung">
+          <isComposedBy>
+            <node id="3.46-01" label="3.46-01 Hydrogeologie, Hydrologie, Limnologie, Siedlungswasserwirtschaft, Wasserchemie, Integrierte Wasserressourcen-Bewirtschaftung"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="41" label="41 Maschinenbau und Produktionstechnik">
+      <isComposedBy>
+        <node id="4.11" label="4.11 Produktionstechnik">
+          <isComposedBy>
+            <node id="4.11-01" label="4.11-01 Spanende und abtragende Fertigungstechnik"/>
+            <node id="4.11-02" label="4.11-02 Ur- und Umformtechnik, Additive Fertigungsverfahren"/>
+            <node id="4.11-03" label="4.11-03 Fügetechnik und Trenntechnik"/>
+            <node id="4.11-04" label="4.11-04 Kunststofftechnik"/>
+            <node id="4.11-05" label="4.11-05 Produktionssystematik, Betriebswissenschaften, Qualitätsmanagement und Fabrikplanung"/>
+            <node id="4.11-06" label="4.11-06 Produktionsautomatisierung und Montagetechnik"/>
+          </isComposedBy>
+        </node>
+        <node id="4.12" label="4.12 Mechanik und Konstruktiver Maschinenbau">
+          <isComposedBy>
+            <node id="4.12-01" label="4.12-01 Konstruktion, Maschinenelemente, Produktentwicklung"/>
+            <node id="4.12-02" label="4.12-02 Mechanik"/>
+            <node id="4.12-03" label="4.12-03 Leichtbau, Textiltechnik"/>
+            <node id="4.12-04" label="4.12-04 Akustik"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="42" label="42 Wärmetechnik/Verfahrenstechnik">
+      <isComposedBy>
+        <node id="4.21" label="4.21 Verfahrenstechnik, Technische Chemie">
+          <isComposedBy>
+            <node id="4.21-01" label="4.21-01 Chemische und Thermische Verfahrenstechnik"/>
+            <node id="4.21-02" label="4.21-02 Technische Chemie"/>
+            <node id="4.21-03" label="4.21-03 Mechanische Verfahrenstechnik"/>
+            <node id="4.21-04" label="4.21-04 Bioverfahrenstechnik"/>
+            <node id="4.21-05" label="4.21-05 Systemverfahrenstechnik"/>
+          </isComposedBy>
+        </node>
+        <node id="4.22" label="4.22 Strömungsmechanik, Technische Thermodynamik und Thermische Energietechnik">
+          <isComposedBy>
+            <node id="4.22-01" label="4.22-01 Energieverfahrenstechnik"/>
+            <node id="4.22-02" label="4.22-02 Technische Thermodynamik"/>
+            <node id="4.22-03" label="4.22-03 Strömungsmechanik"/>
+            <node id="4.22-04" label="4.22-04 Strömungs- und Kolbenmaschinen"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="43" label="43 Materialwissenschaft und Werkstofftechnik">
+      <isComposedBy>
+        <node id="4.31" label="4.31 Werkstofftechnik">
+          <isComposedBy>
+            <node id="4.31-01" label="4.31-01 Metallurgische, thermische und thermomechanische Behandlung von Werkstoffen"/>
+            <node id="4.31-02" label="4.31-02 Materialien und Werkstoffe der Sinterprozesse und der generativen Fertigungsverfahren "/>
+            <node id="4.31-03" label="4.31-03 Beschichtungs- und Oberflächentechnik"/>
+            <node id="4.31-04" label="4.31-04 Mechanische Eigenschaften von metallischen Werkstoffen und ihre mikrostrukturellen Ursachen"/>
+            <node id="4.31-05" label="4.31-05 Glas und Keramik und darauf basierende Verbundwerkstoffe"/>
+            <node id="4.31-06" label="4.31-06 Polymere und biogene Werkstoffe und darauf basierende Verbundwerkstoffe"/>
+          </isComposedBy>
+        </node>
+        <node id="4.32" label="4.32 Materialwissenschaft">
+          <isComposedBy>
+            <node id="4.32-01" label="4.32-01 Herstellung und Eigenschaften von Funktionsmaterialien"/>
+            <node id="4.32-02" label="4.32-02 Biomaterialien"/>
+            <node id="4.32-03" label="4.32-03 Thermodynamik und Kinetik sowie Eigenschaften der Phasen und Gefüge von Werkstoffen "/>
+            <node id="4.32-04" label="4.32-04 Computergestütztes Werkstoffdesign und Simulation von Werkstoffverhalten von atomistischer bis mikroskopischer Skala"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="44" label="44 Informatik, System- und Elektrotechnik">
+      <isComposedBy>
+        <node id="4.41" label="4.41 Systemtechnik">
+          <isComposedBy>
+            <node id="4.41-01" label="4.41-01 Automatisierungstechnik, Mechatronik, Regelungssysteme, Intelligente Technische Systeme, Robotik"/>
+            <node id="4.41-02" label="4.41-02 Messsysteme"/>
+            <node id="4.41-03" label="4.41-03 Mikrosysteme"/>
+            <node id="4.41-04" label="4.41-04 Verkehrs- und Transportsysteme, Intelligenter und automatisierter Verkehr"/>
+            <node id="4.41-05" label="4.41-05 Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme"/>
+            <node id="4.41-06" label="4.41-06 Biomedizinische Systemtechnik"/>
+          </isComposedBy>
+        </node>
+        <node id="4.42" label="4.42 Elektrotechnik und Informationstechnik">
+          <isComposedBy>
+            <node id="4.42-01" label="4.42-01 Elektronische Halbleiter, Bauelemente und Schaltungen, Integrierte Systeme, Sensorik, Theoretische Elektrotechnik"/>
+            <node id="4.42-02" label="4.42-02 Kommunikationstechnik und- netze, Hochfrequenztechnik und photonische Systeme, Signalverarbeitung und maschinelles Lernen für Informationstechnik"/>
+            <node id="4.42-03" label="4.42-03 Elektrische Energiesysteme, Power Management, Leistungselektronik, elektrische Maschinen und Antriebe"/>
+            <node id="4.42-04" label="4.42-04 Hardwaresysteme und -architekturen für die Informationstechnik und die Künstliche Intelligenz, Quantentechnische Systeme"/>
+          </isComposedBy>
+        </node>
+        <node id="4.43" label="4.43 Informatik">
+          <isComposedBy>
+            <node id="4.43-01" label="4.43-01 Theoretische Informatik"/>
+            <node id="4.43-02" label="4.43-02 Softwaretechnik und Programmiersprachen"/>
+            <node id="4.43-03" label="4.43-03 Sicherheit und Verlässlichkeit, Betriebs-, Kommunikations- und verteilte Systeme"/>
+            <node id="4.43-04" label="4.43-04 Künstliche Intelligenz und Maschinelle Lernverfahren"/>
+            <node id="4.43-05" label="4.43-05 Bild- und Sprachverarbeitung, Computergraphik und Visualisierung, Human Computer Interaction, Ubiquitous und Wearable Computing"/>
+            <node id="4.43-06" label="4.43-06 Datenmanagement, datenintensive Systeme, Informatik-Methoden in der Wirtschaftsinformatik"/>
+            <node id="4.43-07" label="4.43-07 Rechnerarchitektur, eingebettete und massiv parallele Systeme"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+    <node id="45" label="45 Bauwesen und Architektur">
+      <isComposedBy>
+        <node id="4.51" label="4.51 Bauwesen und Architektur">
+          <isComposedBy>
+            <node id="4.51-01" label="4.51-01 Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen"/>
+            <node id="4.51-02" label="4.51-02 Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung"/>
+            <node id="4.51-03" label="4.51-03 Baustoffwissenschaften, Bauchemie, Bauphysik"/>
+            <node id="4.51-04" label="4.51-04 Konstruktiver Ingenieurbau, Bauinformatik und Baubetrieb"/>
+            <node id="4.51-05" label="4.51-05 Angewandte Mechanik, Statik und Dynamik"/>
+            <node id="4.51-06" label="4.51-06 Geotechnik, Wasserbau"/>
+          </isComposedBy>
+        </node>
+      </isComposedBy>
+    </node>
+  </isComposedBy>
+</node>

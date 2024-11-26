@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    The contents of this file are subject to the license and copyright
+    detailed in the LICENSE and NOTICE files at the root of the source
+    tree and available online at
+
+    http://www.dspace.org/license/
+
+-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd"
+       default-autowire-candidates="*Service,*DAO,javax.sql.DataSource">
+
+    <context:annotation-config/> <!-- allows us to use spring annotations in beans -->
+
+    <bean id="de.tu_darmstadt.ulb.record.RecordService" class="de.tu_darmstadt.ulb.record.impl.CsvRecordImpl">
+        <property name="filePath" value="dfg2ddc.csv.path"/>
+        <property name="separator" value="dfg2ddc.csv.separator"/>
+        <property name="defaultSeparator" value=","/>
+        <property name="columnMappings">
+            <map>
+                <entry key="dfg" value="key"/>
+                <entry key="ddc" value="value"/>
+            </map>
+        </property>
+    </bean>
+</beans>

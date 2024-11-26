@@ -1,0 +1,215 @@
+dfg,text,ddc
+1.11-01,Ur- und Frühgeschichte (weltweit),930
+1.11-02,Griechische und Lateinische Philologie,870
+1.11-03,Alte Geschichte,930
+1.11-04,"Klassische, Provinzialrömische, Christliche und Islamische Archäologie",930
+1.11-05,Ägyptische und Vorderasiatische Altertumswissenschaften,930
+1.12-01,Mittelalterliche Geschichte,900
+1.12-02,Frühneuzeitliche Geschichte,900
+1.12-03,Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte),900
+1.12-04,Wissenschaftsgeschichte,900
+1.13-01,Kunstgeschichte,700
+1.13-02,Musikwissenschaften,780
+1.13-03,Theater- und Medienwissenschaften,790
+1.14-01,"Allgemeine und Vergleichende Sprachwissenschaft, Experimentelle Linguistik, Typologie, Außereuropäische Sprachen",400
+1.14-02,"Einzelsprachenwissenschaften, Historische Linguistik",400
+1.14-03,"Angewandte Sprachwissenschaften, Computerlinguistik",400
+1.15-01,Germanistische Mediävistik (Ältere deutsche Literatur),830
+1.15-02,Germanistische Literatur-und Kulturwissenschaften (Neuere deutsche Literatur),830
+1.15-03,Europäische und Amerikanische Literatur- und Kulturwissenschaften,800
+1.15-04,Allgemeine und vergleichende Literaturwissenschaft; Kulturwissenschaft,800
+1.16-01,Ethnologie und Europäische Ethnologie ,300
+1.16-02,Asienbezogene Wissenschaften,300
+1.16-03,"Afrika-, Amerika- und Ozeanienbezogene Wissenschaften",300
+1.16-04,"Islamwissenschaft, Arabistik, Semitistik",300
+1.16-05,Religionswissenschaft und Judaistik,200
+1.17-01,Evangelische Theologie,230
+1.17-02,Katholische Theologie,230
+1.18-01,Geschichte der Philosophie ,100
+1.18-02,Theoretische Philosophie,100
+1.18-03,Praktische Philosophie,100
+1.21-01,Allgemeine und Historische Erziehungswissenschaft ,370
+1.21-02,Allgemeines und fachbezogenes Lehren und Lernen ,370
+1.21-03,Bildungssysteme und Bildungsinstitutionen,370
+1.21-04,Erziehungswissenschaftliche Sozialisations- und Professionalitätsforschung,370
+1.22-01,"Allgemeine, Kognitive und Mathematische Psychologie",150
+1.22-02,Biologische Psychologie und Kognitive Neurowissenschaften ,150
+1.22-03,Entwicklungspsychologie und Pädagogische Psychologie ,150
+1.22-04,Sozialpsychologie und Arbeits- und Organisationspsychologie,150
+1.22-05,"Persönlichkeitspsychologie, Klinische und Medizinische Psychologie, Methoden",150
+1.23-01,Soziologische Theorie,300
+1.23-02,Empirische Sozialforschung,300
+1.23-03,Publizistik und Kommunikationswissenschaft ,070
+1.23-04,Politikwissenschaft,320
+1.24-01,Wirtschaftstheorie,330
+1.24-02,"Wirtschaftspolitik, Angewandte Volkswirtschaftslehre",330
+1.24-03,Accounting und Finance,650
+1.24-04,Management und Marketing,650
+1.24-05,Operations Management und BWL-spezifische Wirtschaftsinformatik ,650
+1.24-06,Statistik und Ökonometrie,310
+1.24-07,Wirtschafts- und Sozialgeschichte,900
+1.25-01,Grundlagen des Rechts und der Rechtswissenschaft ,340
+1.25-02,Privatrecht,340
+1.25-03,Öffentliches Recht,340
+1.25-04,Strafrecht,340
+1.25-05,Kriminologie,340
+2.11-01,Biochemie,570
+2.11-02,Biophysik,570
+2.11-03,Zellbiologie,570
+2.11-04,Strukturbiologie,570
+2.11-05,Allgemeine Genetik und funktionelle Genomforschung ,570
+2.11-06,Entwicklungsbiologie,570
+2.11-07,Bioinformatik und Theoretische Biologie,570
+2.12-01,Evolution und Systematik der Pflanzen und Pilze,580
+2.12-02,Ökologie und Biodiversität der Pflanzen und Ökosysteme,580
+2.12-03,"Organismische Interaktionen, chemische Ökologie und Mikrobiome pflanzlicher Systeme",580
+2.12-04,Pflanzenphysiologie,580
+2.12-05,Biochemie und Biophysik der Pflanzen,580
+2.12-06,Zell- und Entwicklungsbiologie der Pflanzen,580
+2.12-07,Genetik und Genomik der Pflanzen,580
+2.13-01,Systematik und Morphologie der Tiere ,590
+2.13-02,"Evolution, Anthropologie",590
+2.13-03,"Ökologie und Biodiversität der Tiere und Ökosysteme, Organismische Interaktionen",590
+2.13-04,Biologie des Verhaltens und der Sinne ,590
+2.13-05,Biochemie und Physiologie der Tiere,590
+2.13-06,Evolutionäre Zell- und Entwicklungsbiologie der Tiere,590
+2.21-01,"Stoffwechselphysiologie, Biochemie und Genetik der Mikroorganismen",570
+2.21-02,Mikrobielle Ökologie und Angewandte Mikrobiologie,570
+2.21-03,"Medizinische Mikrobiologie und Mykologie, Hygiene, Molekulare Infektionsbiologie",610
+2.21-04,Virologie,610
+2.21-05,Immunologie,610
+2.21-06,Parasitologie und Biologie der Erreger tropischer Infektionskrankheiten,610
+2.22-01,Epidemiologie und Medizinische Biometrie/Statistik,610
+2.22-02,"Public Health, Gesundheitsbezogene Versorgungsforschung, Sozial- und Arbeitsmedizin",610
+2.22-03,Humangenetik,610
+2.22-04,Anatomie und Physiologie ,610
+2.22-05,Ernährungswissenschaften,610
+2.22-06,Pathologie,610
+2.22-07,Medizininformatik und medizinische Bioinformatik ,610
+2.22-08,Pharmazie,610
+2.22-09,Pharmakologie,610
+2.22-10,"Toxikologie, Laboratoriumsmedizin",610
+2.22-11,Anästhesiologie,610
+2.22-12,"Kardiologie, Angiologie",610
+2.22-13,"Pneumologie, Thoraxchirurgie",610
+2.22-14,"Hämatologie, Onkologie",610
+2.22-15,Gastroenterologie,610
+2.22-16,Nephrologie,610
+2.22-17,"Endokrinologie, Diabetologie, Metabolismus",610
+2.22-18,Rheumatologie,610
+2.22-19,Dermatologie,610
+2.22-20,Kinder- und Jugendmedizin ,610
+2.22-21,Gynäkologie und Geburtshilfe,610
+2.22-22,Klinische Immunologie und Allergologie ,610
+2.22-23,"Reproduktionsmedizin, Urologie",610
+2.22-24,Gerontobiologie und Geriatrie ,610
+2.22-25,Allgemein- und Viszeralchirurgie ,610
+2.22-26,Herz- und Gefäßchirurgie,610
+2.22-27,"Orthopädie, Unfallchirurgie, rekonstruktive Chirurgie",610
+2.22-28,"Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie",610
+2.22-29,"Hals-Nasen-Ohrenheilkunde, Phoniatrie und Audiologie",610
+2.22-30,Radiologie,610
+2.22-31,Klinische Infektiologie und Tropenmedizin ,610
+2.22-32,"Medizinische Physik, Biomedizinische Technik",610
+2.22-33,"Nuklearmedizin, Strahlentherapie, Strahlenbiologie",610
+2.23-01,Entwicklungsneurobiologie,570
+2.23-02,Molekulare Biologie und Physiologie von Nerven- und Gliazellen ,570
+2.23-03,Experimentelle und theoretische Netzwerk-Neurowissenschaften ,570
+2.23-04,"Kognitive, systemische und Verhaltensneurobiologie",570
+2.23-05,Experimentelle Modelle zum Verständnis von Erkrankungen des Nervensystems ,570
+2.23-06,Molekulare und zelluläre Neurologie und Neuropathologie,610
+2.23-07,Klinische Neurologie; Neurochirurgie und Neuroradiologie ,610
+2.23-08,Kognitive und systemische Humanneurowissenschaften ,570
+2.23-09,Biologische Psychiatrie,610
+2.23-10,"Klinische Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie",610
+2.23-11,Augenheilkunde,610
+2.31-01,Bodenwissenschaften,630
+2.31-02,"Pflanzenzüchtung, Pflanzenpathologie",630
+2.31-03,"Pflanzenbau, Pflanzenernährung, Agrartechnik",630
+2.31-04,Ökologie der Landnutzung,630
+2.31-05,"Agrarökonomie, Agrarpolitik, Agrarsoziologie",630
+2.31-06,Forstwissenschaften,630
+2.31-07,"Tierzucht, Tierernährung, Tierhaltung",630
+2.31-08,Tiermedizin,630
+3.11-01,"Anorganische Molekülchemie - Synthese, Charakterisierung",540
+3.11-02,"Organische Molekülchemie - Synthese, Charakterisierung",540
+3.12-01,"Festkörper- und Oberflächenchemie, Materialsynthese",540
+3.12-02,"Physikalische Chemie von Festkörpern und Oberflächen, Materialcharakterisierung",540
+3.13-01,"Physikalische Chemie von Molekülen, Flüssigkeiten und Grenzflächen, Biophysikalische Chemie",540
+3.14-01,Analytische Chemie,540
+3.15-01,Biologische und Biomimetische Chemie,
+3.15-02,Lebensmittelchemie,540
+3.16-01,Präparative und Physikalische Chemie von Polymeren ,540
+3.16-02,Experimentelle und Theoretische Polymerphysik,530
+3.16-03,Polymermaterialien,540
+3.17-01,"Theoretische Chemie: Elektronenstruktur, Dynamik, Simulation",540
+3.17-02,"Theoretische Chemie: Moleküle, Materialien, Oberflächen",540
+3.21-01,Experimentelle Physik der kondensierten Materie,530
+3.21-02,Theoretische Physik der kondensierten Materie,530
+3.22-01,"Statistische Physik, Nichtlineare Dynamik, Komplexe Systeme, Weiche und fluide Materie, Biologische Physik",530
+3.23-01,"Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen",530
+3.24-01,"Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder",530
+3.25-01,Astrophysik und Astronomie,
+3.31-01,Mathematik,510
+3.41-01,Physik und Chemie der Atmosphäre,550
+3.41-02,"Physik, Chemie und Biologie des Meeres",550
+3.42-01,Geologie,550
+3.42-02,Paläontologie,560
+3.43-01,Physik des Erdkörpers,550
+3.43-02,"Geodäsie, Photogrammetrie, Fernerkundung, Geoinformatik, Kartographie",
+3.44-01,"Mineralogie, Petrologie und Geochemie",550
+3.45-01,Physische Geographie,910
+3.45-02,Humangeographie,910
+3.46-01,"Hydrogeologie, Hydrologie, Limnologie, Siedlungswasserwirtschaft, Wasserchemie, Integrierte Wasserressourcen-Bewirtschaftung",624
+4.11-01,Spanende und abtragende Fertigungstechnik,670
+4.11-02,"Ur- und Umformtechnik, Additive Fertigungsverfahren",670
+4.11-03,Fügetechnik und Trenntechnik,670
+4.11-04,Kunststofftechnik,670
+4.11-05,"Produktionssystematik, Betriebswissenschaften, Qualitätsmanagement und Fabrikplanung",650
+4.11-06,Produktionsautomatisierung und Montagetechnik,670
+4.12-01,"Konstruktion, Maschinenelemente, Produktentwicklung",620
+4.12-02,Mechanik,620
+4.12-03,"Leichtbau, Textiltechnik",620
+4.12-04,Akustik,620
+4.21-01,Chemische und Thermische Verfahrenstechnik ,660
+4.21-02,Technische Chemie,660
+4.21-03,Mechanische Verfahrenstechnik,660
+4.21-04,Bioverfahrenstechnik,660
+4.21-05,Systemverfahrenstechnik,660
+4.22-01,Energieverfahrenstechnik,620
+4.22-02,Technische Thermodynamik,620
+4.22-03,Strömungsmechanik,620
+4.22-04,Strömungs- und Kolbenmaschinen,620
+4.31-01,"Metallurgische, thermische und thermomechanische Behandlung von Werkstoffen",620
+4.31-02,Materialien und Werkstoffe der Sinterprozesse und der generativen Fertigungsverfahren ,620
+4.31-03,Beschichtungs- und Oberflächentechnik,620
+4.31-04,Mechanische Eigenschaften von metallischen Werkstoffen und ihre mikrostrukturellen Ursachen,620
+4.31-05,Glas und Keramik und darauf basierende Verbundwerkstoffe,620
+4.31-06,Polymere und biogene Werkstoffe und darauf basierende Verbundwerkstoffe,620
+4.32-01,Herstellung und Eigenschaften von Funktionsmaterialien ,620
+4.32-02,Biomaterialien,620
+4.32-03,Thermodynamik und Kinetik sowie Eigenschaften der Phasen und Gefüge von Werkstoffen ,620
+4.32-04,Computergestütztes Werkstoffdesign und Simulation von Werkstoffverhalten von atomistischer bis mikroskopischer Skala,620
+4.41-01,"Automatisierungstechnik, Mechatronik, Regelungssysteme, Intelligente Technische Systeme, Robotik",
+4.41-02,Messsysteme,621.3
+4.41-03,Mikrosysteme,621.3
+4.41-04,"Verkehrs- und Transportsysteme, Intelligenter und automatisierter Verkehr",380
+4.41-05,"Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme",620
+4.41-06,Biomedizinische Systemtechnik,621.3
+4.42-01,"Elektronische Halbleiter, Bauelemente und Schaltungen, Integrierte Systeme, Sensorik, Theoretische Elektrotechnik",621.3
+4.42-02,"Kommunikationstechnik und- netze, Hochfrequenztechnik und photonische Systeme, Signalverarbeitung und maschinelles Lernen für Informationstechnik",621.3
+4.42-03,"Elektrische Energiesysteme, Power Management, Leistungselektronik, elektrische Maschinen und Antriebe",621.3
+4.42-04,"Hardwaresysteme und -architekturen für die Informationstechnik und die Künstliche Intelligenz, Quantentechnische Systeme",004
+4.43-01,Theoretische Informatik,004
+4.43-02,Softwaretechnik und Programmiersprachen,004
+4.43-03,"Sicherheit und Verlässlichkeit, Betriebs-, Kommunikations- und verteilte Systeme",004
+4.43-04,Künstliche Intelligenz und Maschinelle Lernverfahren,004
+4.43-05,"Bild- und Sprachverarbeitung, Computergraphik und Visualisierung, Human Computer Interaction, Ubiquitous und Wearable Computing",004
+4.43-06,"Datenmanagement, datenintensive Systeme, Informatik-Methoden in der Wirtschaftsinformatik",004
+4.43-07,"Rechnerarchitektur, eingebettete und massiv parallele Systeme",004
+4.51-01,"Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen",720
+4.51-02,"Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung",710
+4.51-03,"Baustoffwissenschaften, Bauchemie, Bauphysik",624
+4.51-04,"Konstruktiver Ingenieurbau, Bauinformatik und Baubetrieb",624
+4.51-05,"Angewandte Mechanik, Statik und Dynamik",624
+4.51-06,"Geotechnik, Wasserbau",624
